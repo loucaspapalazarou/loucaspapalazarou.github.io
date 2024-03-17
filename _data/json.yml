@@ -1,25 +1,33 @@
 - key: Name
   value: Loucas Papalazarou
+
+- key: Interests
+  value:
+    - "software engineering"
+    - "machine learning"
+    - "data science"
+  typed: true
+
 - key: Education
   value:
-  - key: "The University of Edinburgh"
+  - key: "University of Edinburgh"
     value: "MSc Data Science"
   - key: "University of Cyprus"
     value: "BSc Computer Science"
-- key: Description
-  value:
-    - Hello!
-    - This tiny website
-    - Looks like JSON
-  typed: true
+
+- key: Experience
+  value: "to add..."
+
 - key: CV
   value: cv.pdf
-  url: /loucas_papalazarou_cv.pdf
+  url: /cv.pdf
+
 - key: Contact
   value:
     - key: Email
       value: loukas.papalazarou.cy@gmail.com
       url: "loukas.papalazarou.cy@gmail.com"
+      
 - key: Profiles
   value:
     - value: LinkedIn
