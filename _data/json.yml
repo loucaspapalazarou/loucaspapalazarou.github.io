@@ -20,7 +20,8 @@
 
 - key: CV
   value: cv.pdf
-  url: /cv.pdf{:target="_blank"}
+  url: /cv.pdf
+  target: _blank
 
 - key: Contact
   value:
