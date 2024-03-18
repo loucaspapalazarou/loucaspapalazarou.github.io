@@ -3,20 +3,20 @@
 
 - key: Interests
   value:
-    - "software engineering"
-    - "machine learning"
-    - "data science"
+    - software engineering
+    - machine learning
+    - data science
   typed: true
 
 - key: Education
   value:
-  - key: "University of Edinburgh"
-    value: "MSc Data Science"
-  - key: "University of Cyprus"
-    value: "BSc Computer Science"
+  - key: University of Edinburgh
+    value: MSc Data Science
+  - key: University of Cyprus
+    value: BSc Computer Science
 
 - key: Experience
-  value: "to add..."
+  value: to add...
 
 - key: CV
   value: cv.pdf
@@ -26,8 +26,8 @@
   value:
     - key: Email
       value: loukas.papalazarou.cy@gmail.com
-      url: "loukas.papalazarou.cy@gmail.com"
-      
+      url: loukas.papalazarou.cy@gmail.com
+
 - key: Profiles
   value:
     - value: LinkedIn
