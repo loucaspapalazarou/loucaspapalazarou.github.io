@@ -15,12 +15,12 @@
   - key: University of Cyprus
     value: BSc Computer Science
 
-- key: Experience
-  value: to add...
+# - key: Experience
+#   value: to add...
 
 - key: CV
   value: cv.pdf
-  url: /cv.pdf
+  url: /cv.pdf{:target="_blank"}
 
 - key: Contact
   value:
