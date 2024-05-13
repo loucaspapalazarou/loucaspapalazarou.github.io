@@ -1,6 +1,14 @@
 - key: Name
   value: Loucas Papalazarou
 
+- key: Currently
+  value:
+    - key: Company
+      value: Calnex Solutions
+      url: https://calnexsol.com/
+    - key: Position
+      value: Software Engineer
+
 - key: Education
   value:
     - key: The University of Edinburgh
