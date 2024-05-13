@@ -1,38 +1,64 @@
 - key: Name
-  value: Place Holder
-- key: Description
+  value: Loucas Papalazarou
+- key: Education
   value:
-    - Hello!
-    - This tiny website
-    - Looks like JSON
-  typed: true
+    - key: The University of Edinburgh
+      vaule: MSc Data Science
+    - key: University of Cyprus
+      vaule: BSc Computer Science
 - key: CV
   value: cv.pdf
   url: /cv.pdf
-- key: Address
+- key: Interests
   value:
-    - University of Jekyll
-    - Department of Themes
-    - 123 Main St, Anytown, USA
+    - Machine Learning
+    - Data Science
+    - Backend Software Development
+  typed: true
 - key: Contact
   value:
-    - key: Office
-      value: Foobar Hall 1.23
-    - key: Phone
-      value: +1 234 567 890
     - key: Email
-      value: username@domain.com
-      url: "mailto:username@domain.com"
-- key: Source
-  value: piazzai/hacked-jekyll
-  url: https://github.com/piazzai/hacked-jekyll
+      value: loukas.papalazarou.cy@gmail.com
+      url: "mailto:loukas.papalazarou.cy@gmail.com"
 - key: Profiles
   value:
-    - value: Instagram
-      url: https://www.instagram.com
     - value: LinkedIn
-      url: https://www.linkedin.com
-    - value: StackOverflow
-      url: https://stackoverflow.com
+      url: https://linkedin.com/in/loucas-papalazarou-868b1a20a/
     - value: GitHub
-      url: https://github.com
+      url: https://github.com/loucaspapalazarou
+
+
+# - key: Description
+#   value:
+#     - Hello!
+#     - This tiny website
+#     - Looks like JSON
+#   typed: true
+
+# - key: Address
+#   value:
+#     - University of Jekyll
+#     - Department of Themes
+#     - 123 Main St, Anytown, USA
+# - key: Contact
+#   value:
+#     - key: Office
+#       value: Foobar Hall 1.23
+#     - key: Phone
+#       value: +1 234 567 890
+#     - key: Email
+#       value: username@domain.com
+#       url: "mailto:username@domain.com"
+# - key: Source
+#   value: piazzai/hacked-jekyll
+#   url: https://github.com/piazzai/hacked-jekyll
+# - key: Profiles
+#   value:
+#     - value: Instagram
+#       url: https://www.instagram.com
+#     - value: LinkedIn
+#       url: https://www.linkedin.com
+#     - value: StackOverflow
+#       url: https://stackoverflow.com
+#     - value: GitHub
+#       url: https://github.com
