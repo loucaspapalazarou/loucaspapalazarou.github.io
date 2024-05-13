@@ -1,25 +1,38 @@
 - key: Name
   value: Loucas Papalazarou
+
 - key: Education
   value:
     - key: The University of Edinburgh
       vaule: MSc Data Science
     - key: University of Cyprus
       vaule: BSc Computer Science
+
+- key: Contact
+  value:
+    - key: Office
+      value: Foobar Hall 1.23
+    - key: Phone
+      value: +1 234 567 890
+    - key: Email
+      value: username@domain.com
+      url: "mailto:username@domain.com"
+
 - key: CV
   value: cv.pdf
   url: /cv.pdf
+
 - key: Interests
   value:
     - Machine Learning
     - Data Science
     - Backend Software Development
   typed: true
-- key: Contact
-  value:
-    - key: Email
-      value: loukas.papalazarou.cy@gmail.com
-      url: "mailto:loukas.papalazarou.cy@gmail.com"
+
+- key: Email
+  value: loukas.papalazarou.cy@gmail.com
+    url: "mailto:loukas.papalazarou.cy@gmail.com"
+
 - key: Profiles
   value:
     - value: LinkedIn
