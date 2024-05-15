@@ -3,10 +3,8 @@
 
 - key: Currently
   value:
-    - key: Company
-      value: Calnex Solutions
+    - key: Calnex Solutions
       url: https://calnexsol.com/
-    - key: Job Title
       value: Software Engineer
 
 - key: Education
