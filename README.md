@@ -1,3 +1,1 @@
-# My [portfolio website](https://loucaspapalazarou.github.io)
-
-*Based on the [hacked-jekyll](https://github.com/piazzai/hacked-jekyll) theme*
+Editing `index.md` and use VS code extension to preview and export to html.
