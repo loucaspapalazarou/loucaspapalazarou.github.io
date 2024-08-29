@@ -1,5 +1,5 @@
 ---
-title: "L P"  
+title: "lpapal"  
 author: Loucas Papalazarou  
 export_on_save:  
   html: true
@@ -42,6 +42,6 @@ I have a deep passion for sports, particularly football and grappling martial ar
 
 Currently, I'm a dedicated gym-goer and an aspiring marathon runner.
 
-Originally from Cyprus, I now reside in Edinburgh, Scotland. I love traveling and have explored many countries, including the UK, Greece, Spain, Italy, Germany and more.
+Originally from Cyprus, I now reside in Edinburgh, Scotland. I love traveling and have explored many countries, including the UK, Greece, Spain, Italy, Germany, Slovenia, Austria, Hungary and more.
 
 
