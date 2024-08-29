@@ -5,14 +5,21 @@ export_on_save:
   html: true
 ---
 
-<div style="display: flex">
-    <img src="/img/profile.jpg" alt="profile" width="200" style="border-radius: 20%; margin-right: 20px;"/>
+<div style="display: flex; align-items: flex-start;">
+    <div style="display: flex; flex-direction: column; align-items: center; margin-right: 20px;">
+        <img src="/img/profile.jpg" alt="profile" width="500" style="border-radius: 20%; object-fit: cover;"/>
+        <div style="margin-top: 10px; line-height: 1.2;">
+            <p style="margin: 2px 0;"><a href="https://github.com/loucaspapalazarou" target="_blank">github.com/loucaspapalazarou</a></p>
+            <p style="margin: 2px 0;"><a href="https://www.linkedin.com/in/loucas-papalazarou-868b1a20a/" target="_blank">linkedin.com/in/loucaspapalazarou</a></p>
+            <p style="margin: 2px 0;"><a href="mailto:loucas.papalazarou@gmail.com">loucas.papalazarou@gmail.com</a></p>
+        </div>
+    </div>
     <div>
         <h1 style="margin-top: 5px">Loucas Papalazarou</h1>
-        <p>I am a passionate backend software engineer at <a href="https://www.calnexsol.com/">Calnex Solutions</a>. My main interests include backend software engineering and machine learning.</p>
-        <a href="https://drive.google.com/file/d/1JpzjOPLSKEWmFFKmPBhmMe6mTonRgAFt/view?usp=sharing">Resume</a>
+        <p>I am currently a backend software engineer at <a href="https://www.calnexsol.com/">Calnex Solutions</a>, working primarily with <b>C#</b> and <b>C++</b>. Throughout my studies, I have gained diverse experience as a software engineer at various companies, handling different roles and responsibilities. My main interests include backend software engineering, data science and machine learning. I enjoy working with many programming languages and technologies, particularly <b>Python</b>, <b>PyTorch</b>,  <b>Java</b>, <b>Go</b>, <b>Relational Databases</b>, <b>Docker</b> and many more.
+        </p>
+        <p><b><a href="https://drive.google.com/file/d/1JpzjOPLSKEWmFFKmPBhmMe6mTonRgAFt/view?usp=sharing" target="_blank">Link to resume</a></b></p>
     </div>
-    
 </div>
 
 ---
@@ -28,4 +35,13 @@ Dissertation: [Virtual Sensing through Transformers and Selective State Spaces](
 Thesis: [Implementation and Experimental Evaluation of Byzantine-Tolerant Distributed Sets](https://drive.google.com/file/d/1kvxkyFYwMDLt0MRjA3JBI5GmTEKPO5Cy/view?usp=sharing)
 
 ---
+
+## Life
+
+I have a deep passion for sports, particularly football and grappling martial arts. I practiced Judo for 10 years, starting at the age of 9, and earned my black belt in 2019. Although I've taken a break from combat sports, I plan to return to them eventually.
+
+Currently, I'm a dedicated gym-goer and an aspiring marathon runner.
+
+Originally from Cyprus, I now reside in Edinburgh, Scotland. I love traveling and have explored many countries, including the UK, Greece, Spain, Italy, Germany and more.
+
 
