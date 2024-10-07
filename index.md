@@ -1,5 +1,5 @@
 ---
-title: "lpapal"  
+title: "loucasp"  
 author: Loucas Papalazarou  
 export_on_save:  
   html: true
@@ -16,8 +16,7 @@ export_on_save:
     </div>
     <div>
         <h1 style="margin-top: 5px">Loucas Papalazarou</h1>
-        <p>I am currently a backend software engineer at <a href="https://www.calnexsol.com/">Calnex Solutions</a>, working primarily with <b>C#</b> and <b>C++</b>. Throughout my studies, I have gained diverse experience as a software engineer at various companies, handling different roles and responsibilities. My main interests include backend software engineering, data science and machine learning. I enjoy working with many programming languages and technologies, particularly <b>Python</b>, <b>PyTorch</b>,  <b>Java</b>, <b>Go</b>, <b>Relational Databases</b>, <b>Docker</b> and many more.
-        </p>
+        <p>I am currently a Software Development Engineer at <a href="https://aws.amazon.com/">AWS</a>, working on the <a href="https://aws.amazon.com/rds/sqlserver/">RDS for SQL Server</a> Team. Throughout my studies, I have gained diverse experience as a software engineer at various companies, handling different roles and responsibilities. My main interests include backend software engineering, data science, and machine learning. I enjoy working with many technologies and programming languages, while I am most proficient with <b>Python</b>, <b>Java</b>, and <b>Go</b>.</p>
         <p><b><a href="https://drive.google.com/file/d/1JpzjOPLSKEWmFFKmPBhmMe6mTonRgAFt/view?usp=sharing" target="_blank">Link to resume</a></b></p>
     </div>
 </div>
@@ -43,5 +42,3 @@ I have a deep passion for sports, particularly football and grappling martial ar
 Currently, I'm a dedicated gym-goer and an aspiring marathon runner.
 
 Originally from Cyprus, I now reside in Edinburgh, Scotland. I love traveling and have explored many countries, including the UK, Greece, Spain, Italy, Germany, Slovenia, Austria, Hungary and more.
-
-
